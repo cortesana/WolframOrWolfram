@@ -1,1 +1,1 @@
-# Wolframio, never heard of her.
+# Wolfram, never heard of her.
