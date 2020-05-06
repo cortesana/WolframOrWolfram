@@ -36,4 +36,5 @@ function findAndReplace(textNode) {
     textNode.nodeValue = textNodeContent;
     
 }
+
 getTextNodes(document.body);
