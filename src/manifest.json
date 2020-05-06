@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Wolfram, never heard of her",
+    "name": "Wolfram or Wolfram",
     "version": "1.0.0",
     "description": "Chrome extension that replaces all occurrences of Tungsten with Wolfram in English and Spanish.",
     "author": "cortesana (https://twitter.com/cortesana_dev)",
