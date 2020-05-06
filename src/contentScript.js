@@ -2,6 +2,11 @@
 
 function getTextNodes(node) {
 
+    let tagName = node.tagName ? node.tagName.toLowerCase() : "";
+
+    if(tagName =='input' || tagName == 'textarea') {
+        return;
+    }
     switch(node.nodeType) {
         case 1:
         case 9:
