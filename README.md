@@ -1,9 +1,9 @@
 # Wolfram or Wolfram.
 
->  **Chrome extension** that replaces all occurrences of Tungsten with Wolfram in English and Spanish. :wrench::wolf:<br />
+>  **Chrome extension** that replaces all occurrences of Tungsten with Wolfram in English and Spanish. :wrench::wolf:
 
 
-![Wikipedia Wolfram page](./examples/screenshot_en.png)<br />
+![Wikipedia Wolfram page](./examples/screenshot_en.png)
 
 
 Wolfram, W, is the chemical element with atomic number 74 and there is a lot of controversy surrounding its name.
