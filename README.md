@@ -6,7 +6,7 @@
 ![Wikipedia Wolfram page](./examples/screenshot_en.png)
 
 
-Wolfram, W, is the chemical element with atomic number 74 and there is a lot of controversy surrounding its name.
+Wolfram, *W*, is the chemical element with atomic number 74 and there is a lot of controversy surrounding its name.
 
 The aim of **Wolfram or Wolfram** is to give visibility to Spanish scientists and brothers, José and Fausto Elhúyar, who, in 1783, were the first to successfully isolate the element in the Royal Basque Society.
 
