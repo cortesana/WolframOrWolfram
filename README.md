@@ -12,7 +12,7 @@ The aim of **Wolfram or Wolfram** is to give visibility to Spanish scientists an
 
 *The extension is not published in the Chrome Web Store.*
 
-## Installation
+## Installation and Set-up.
 
 1. Download or clone the repository.
 2. Go to chrome://extensions/ and turn on Developer mode.
@@ -21,6 +21,7 @@ The aim of **Wolfram or Wolfram** is to give visibility to Spanish scientists an
 
 ## How To Contribute
 
+Contributions are what make the open source community such an amazing place to be, learn and grow. Any contributions are **greatly appreciated**.
 1. Fork the project.
 2. Create a Branch.
 	```
