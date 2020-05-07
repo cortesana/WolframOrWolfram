@@ -33,6 +33,11 @@ The aim of **Wolfram or Wolfram** is to give visibility to Spanish scientists an
 	```
 5. Open a Pull Request.
 
+## Resources
+
+[Walking the DOM] (https://javascript.info/dom-navigation)
+[SO ft_getTextNodes] https://stackoverflow.com/questions/5904914/javascript-regex-to-replace-text-not-in-html-attributes
+
 **Authors**
 
 [cortesana](https://twitter.com/cortesana_dev)
