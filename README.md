@@ -21,13 +21,13 @@ The aim of **Wolfram or Wolfram** is to give visibility to Spanish scientists an
 
 ## How To Contribute
 
-Contributions are what make the open source community such an amazing place to be, learn and grow. Any contributions are **greatly appreciated**.
+Contributions are what make the open source community an amazing place to be, learn and grow. Any contributions to **libc** are **greatly appreciated**.
 1. Fork the project.
-2. Create a Branch.
+2. Create a Branch:
 	```
 	git checkout -b <name>
 	```
-3. Commit your changes and push to the branch.
+3. Commit your changes and push to the branch:
 	```
 	git commit -m "commit-name"
 	git push
