@@ -1,6 +1,6 @@
 # Wolfram or Wolfram.
 
-	>  **Chrome extension** that replaces all occurrences of Tungsten with Wolfram in English and Spanish. :wrench::wolf:
+>  **Chrome extension** that replaces all occurrences of Tungsten with Wolfram in English and Spanish. :wrench::wolf:
 
 
 ![Wikipedia Wolfram page](./examples/screenshot_en.png)
