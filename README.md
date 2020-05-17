@@ -19,7 +19,7 @@ The aim of **Wolfram or Wolfram** is to give visibility to Spanish scientists an
 
 ## How To Contribute
 
-Contributions are what make the open source community an amazing place to be, learn and grow. Any contributions to **libc** are **greatly appreciated**.
+Contributions are what make the open source community an amazing place to be, learn and grow. Any contributions to **Wolfram or Wolfram** are **greatly appreciated**.
 1. Fork the project.
 2. Create a Branch:
 	```
