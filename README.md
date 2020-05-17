@@ -10,12 +10,23 @@ The aim of **Wolfram or Wolfram** is to give visibility to Spanish scientists an
 
 *The extension is not published in the Chrome Web Store.*
 
+## Table of contents
+- [Installation Guide](#installation)
+- [How To Contribute](#contributions)
+- [Resources](#resources)
+- [Authors](#authors)
+- [LICENSE](#license)
+
+<a name="installation"/>
+
 ## Installation Guide
 
 1. Clone or download the repository.
 2. Go to chrome://extensions/ and turn on Developer mode.
 3. Click Load Unpacked and select the src/ folder.
 4. Activate the extension and enjoy Wolfram-full navigation!
+
+<a name="contributions"/>
 
 ## How To Contribute
 
@@ -32,13 +43,21 @@ Contributions are what make the open source community an amazing place to be, le
 	```
 5. Open a Pull Request.
 
+<a name="resources"/>
+
 ## Resources
 
 - [Walking the DOM](https://javascript.info/dom-navigation)
 - [Stack Overflow ft_getTextNodes](https://stackoverflow.com/questions/5904914/javascript-regex-to-replace-text-not-in-html-attributes)
 
-**Authors**
+<a name="authors"/>
+
+## Authors
 
 [cortesana](https://twitter.com/cortesana_dev)
+
+<a name="license"/>
+
+## LICENSE
 
 **MIT License**
