@@ -12,7 +12,7 @@ The aim of **Wolfram or Wolfram** is to give visibility to Spanish scientists an
 
 ## Installation Guide
 
-1. Download or clone the repository.
+1. Clone or download the repository.
 2. Go to chrome://extensions/ and turn on Developer mode.
 3. Click Load Unpacked and select the src/ folder.
 4. Activate the extension and enjoy Wolfram-full navigation!
