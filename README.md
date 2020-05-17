@@ -1,4 +1,4 @@
-# Wolfram or Wolfram.
+# Wolfram or Wolfram
 
 >  **Chrome extension** that replaces all occurrences of Tungsten with Wolfram in English and Spanish. :wrench::wolf:
 
