@@ -48,7 +48,7 @@ Contributions are what make the open source community an amazing place to be, le
 ## Resources
 
 - [Walking the DOM](https://javascript.info/dom-navigation)
-- [SO: Regex to replace text that is not in HTML attributes](https://stackoverflow.com/questions/5904914/javascript-regex-to-replace-text-not-in-html-attributes)
+- [SO: Replace text that is not in HTML attributes](https://stackoverflow.com/questions/5904914/javascript-regex-to-replace-text-not-in-html-attributes)
 
 <a name="authors"/>
 
